@@ -1,0 +1,251 @@
+header {
+		background-image: url('logo.png' );
+background-repeat:no-repeat;
+background-position: center left;
+	background-color: #222222;
+	padding: 450px;
+	background-image: url('luna.png' );
+background-repeat:no-repeat;
+background-position: center right 300px;
+color: white;
+}
+
+section {
+	background-color: black;
+padding: 80px;
+
+
+
+
+}
+section p {
+	color: white;
+	text-align: left;
+	margin: 4px 2px;
+    margin-left: 200px;
+}
+
+.imagee {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+}
+.imageee {
+	position: absolute;
+	top: 30px;
+	left: 330px;
+}
+header h3 {
+	position: absolute;
+	top: 30px;
+	word-spacing: 30px;
+}
+h1 {
+	font-size: 60px;
+}
+
+.sveta {
+	position: absolute;
+	top: 220px;
+}
+
+.garage-row {
+    border: 1px solid #FFFFFF;
+    float: left;
+    margin-right: 5px;
+    padding: 12px;
+    position: relative;
+    width: 204px;
+}
+nav {
+background: #000;
+color: #fff;
+padding: 20px;
+}
+
+nav ul {
+list-style-type: none;
+}
+
+nav ul li {
+display: inline;
+margin-right: 20px;
+}
+
+nav ul li a {
+color: #fff;
+text-decoration: none;
+}
+
+.imagef {
+	position: absolute;
+	right: 400px;
+	bottom: -40px;
+}
+
+.imagek {
+	position: absolute;
+	right: 800px;
+	bottom: -40px;
+}
+
+.imageb {
+	position: absolute;
+	left: 700px;
+	bottom: -40px;
+}
+
+.imager {
+	position: absolute;
+	left: 350px;
+	bottom: -40px;
+}
+.r {
+display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+  left: 340px;
+  width: 40px;
+}
+.s {
+display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+  left: 700px;
+  width: 40px;
+}
+.z {
+display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+  right: 380px;
+  width: 40px;
+}
+.a {
+display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+  right: 790px;
+  width: 40px;
+}
+footer {
+padding: 250px;
+	background-color: white;
+	
+}
+.imagem {
+	position: absolute;
+	left: 200px;
+	top: 1200px;
+}
+footer h1 {
+	font-size: 40px;
+	position: absolute;
+	top: 1200px;
+	right: 250px;
+	display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+
+}
+
+footer h4 {
+		font-size: 18px;
+	position: absolute;
+	top: 1400px;
+	right: 250px;
+	display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+  font: lighter;
+
+}
+body {
+font-family: Urbanist, sans-serif;
+margin: 0;
+padding: 0;
+color: #333;
+}
+footer .pipec h1 {
+	font-size: 40px;
+	position: absolute;
+	top: 1680px;
+	right: 1200px;
+	display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+
+}
+
+footer .pipec p {
+		font-size: 18px;
+	position: absolute;
+	top: 1750px;
+	right: 1200px;
+	display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+  font: lighter;
+}
+
+.imail {
+	position: absolute;
+	top: 55px;
+	right: 120px;
+}
+.iphone {
+	position: absolute;
+	top: 55px;
+	right: 85px;
+}
+
+footer .pipecc h1 {
+		font-size: 40px;
+	position: absolute;
+	top: 1680px;
+	right: 250px;
+	display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+}
+
+footer .pipecc p {
+		font-size: 18px;
+	position: absolute;
+	top: 1750px;
+	right: 350px;
+	display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word;
+  position: absolute;
+}
+footer p {
+	color: white;
+}
+
+button {
+	background-color: yellow;
+	color: black;
+	border-radius: 50px;
+}
+
+
